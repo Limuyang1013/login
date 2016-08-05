@@ -146,4 +146,4 @@ if __name__ == '__main__':
     if isLogin(num):
         getScore(num, pagenum=0, i=0, j=0)
         getScore(num, pagenum=1, i=31, j=0)
-        getScore(num, pagenum=2, i=61, j=0)
+        getScore(num, pagenum=2, i=62, j=0)
